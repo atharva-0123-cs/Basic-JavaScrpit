@@ -1,6 +1,6 @@
 # Basic-JavaScrpit
 
-Sure! Here are some key concepts of JavaScript that you can quickly revise:
+ Here are some key concepts of JavaScript that you can quickly revise:
 
 1. Variables and Data Types:
    - Use `var`, `let`, or `const` to declare variables.

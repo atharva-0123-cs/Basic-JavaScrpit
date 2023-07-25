@@ -9,7 +9,7 @@
 // console.log(firstName);
 // firstName = "Atharva";
 // console.log(typeof firstName, firstName);
-// console.log(typeof null); // --> Note: bug in javascript. 
+// console.log(typeof null); // --> Note: bug in javascript.  this will print Object (undefined)
 
 //<BigInt>
 // console.log(Number.MAX_SAFE_INTEGER);
@@ -17,7 +17,7 @@
 // let num2 = 987654321n;
 // console.log(num1+num2);
 
-// <booleans and comresion opreators>
+// <booleans and compression opreators>
 
 // let a=10;
 // let b=20;
@@ -42,7 +42,7 @@
 // console.log(a<=c);
 
 //<truthy Values and Falsy Values>
-//Thuthy values - 1)true 2)1 and etc....
+//Thuthy values - 1)true 2)1 and etc...
 //Falsy values - 1)false 2)"" 3)null 4)undefined 5)0.
 
 // let firstName = "";
@@ -50,12 +50,12 @@
 // if (firstName) {
 //     console.log(firstName);
 // }else{
-//     console.log("firstName is enpty string");
+//     console.log("firstName is empty string");
 // }
 
 // <ternary opreator OR conditional opreator>
 // let age = 18;
-// let drink = age <= 5 ? "Milk" : "Coffee";
+// let drink = age <= 5 ? "Milk": "Coffee";
 // console.log(drink);
 
 // <AND opreator> 
